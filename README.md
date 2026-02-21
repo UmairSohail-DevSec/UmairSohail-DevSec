@@ -1,27 +1,42 @@
-# Hi there, I'm Muhammad Umair Sohail! 👋
+# Muhammad Umair Sohail 👋
 
-**Full-Stack Web Developer | Aspiring Cybersecurity Specialist (Blue Team & SOC Analyst) | AI Tools Explorer**
+**Full-Stack Web Developer | Cybersecurity Learner (Blue Team & SOC Analyst) | AI Tools Explorer**
 
-I am a technical professional focused on building secure, functional web applications. My journey is about bridging the gap between development and digital defense, ensuring that every line of code is as secure as it is efficient.
+---
 
-### 🛡️ Cybersecurity & Defense
-- 🔭 I’m currently learning **Blue Team operations** and **SOC Analysis**.
-- 🛡️ Focused on network security, threat detection, and Linux hardening.
-- ⚡ Fun fact: I believe that good code is secure code.
+### 🛡️ About Me:
+- 🛡️ **Cybersecurity:** Currently **learning** Blue Team operations, SOC Analysis, and network defense strategies.
+- 💻 **Web Development:** Proficient in building functional websites with **PHP** and managing databases with **MS SQL**.
+- 🤖 **AI & Innovation:** Exploring **AI tools** to enhance coding productivity and security monitoring.
+- ⚡ **Goal:** To combine my development background with my ongoing cybersecurity training to build secure digital assets.
 
-### 💻 Web Development
-- 🛠️ Building responsive and efficient web interfaces using **HTML, CSS, and JavaScript**.
-- 🗄️ Experienced in database management with **MS SQL Server**.
-- 🚀 Documenting my growth from basic web forms to advanced, secure systems.
+---
 
-### 🤖 AI & Innovation
-- 🔍 Exploring **AI tools** to automate security workflows and enhance productivity.
-- 🛠️ Implementing AI-driven solutions to solve real-world technical problems.
+### 💻 Skills (Tech Stack):
 
+**Development & Scripting:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### 🤝 Let's Connect!
-- 📧 [Email](mailto:umairsohail308@gmail.com)
-- - 📱 [WhatsApp](https://wa.me/923418319629)
+**Cybersecurity Tools (Learning):**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white)
+
+---
+
+### 🌐 Contact Me:
+<a href="https://wa.me/923418319629"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:umairsohail308@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
+
+### 📊 GitHub Stats:
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairSohail-DevSec&show_icons=true&theme=tokyonight)
 
 ---
 *“Always a student, always learning.”*
