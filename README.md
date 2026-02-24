@@ -1,6 +1,6 @@
 # Muhammad Umair Sohail 👋
 
-**Web Developer | Cybersecurity Enthusiast (Blue Team & SOC Analyst) | AI Tools Explorer**
+**Web Developer | Cybersecurity Enthusiast (Blue Team & SOC Analyst) | AI Tools Explorer | Google Certified**
 
 
 ---
