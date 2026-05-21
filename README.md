@@ -69,11 +69,11 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ---
-### 💬 Dev Quote
+### 💬 Rendom Dev Quote
 
 <div align="center">
 
-![Quote](https://img.shields.io/badge/💬%20%22Security%20is%20not%20a%20product%2C%20but%20a%20process%22-Bruce%20Schneier-00B4D8?style=for-the-badge)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 ---
