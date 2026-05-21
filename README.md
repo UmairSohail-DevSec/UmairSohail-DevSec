@@ -5,7 +5,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairsohail308@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmairSohail-DevSec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umair-sohail-964baa265)
 
 </div>
 
@@ -13,6 +13,9 @@
 
 ### 🧑‍💻 About Me
 
+- 🔭 **Currently Working On** — Cybersecurity Projects, Web Apps & Agentic AI
+- 👯 **Looking to Collaborate On** — SOC Projects, Web Development & AI Automation
+- 🤝 **I Can Help You With** — Web Dev, Cybersecurity Basics & AI Tools
 - 🔵 **SOC Analyst (Level 1)** — SIEM, Log Analysis, Incident Response
 - 🛡️ **Blue Teamer** — Network Defense & Threat Monitoring
 - 💻 **Web Developer** — PHP, JavaScript, MS SQL
@@ -57,27 +60,13 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)
+![Dark Web](https://img.shields.io/badge/Dark%20Web%20Analysis-1a1a2e?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 **AI & Automation:**
 
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UmairSohail-DevSec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmairSohail-DevSec&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairSohail-DevSec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
-
-</div>
 
 ---
 
