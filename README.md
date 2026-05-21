@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"Security is not a product, but a process."* — Bruce Schneier
 
 </div>
 
