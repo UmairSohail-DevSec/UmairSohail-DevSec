@@ -13,8 +13,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 **Currently Working On** — Cybersecurity Projects, Web Apps & Agentic AI
-- 👯 **Looking to Collaborate On** — SOC Projects, Web Development & AI Automation
+- 🔭 **Currently Working On** — Cybersecurity Projects, Web Apps 
+- 👯 **Looking to Collaborate On** — SOC Projects, Web Development 
 - 🤝 **I Can Help You With** — Web Dev, Cybersecurity Basics & AI Tools
 - 🔵 **SOC Analyst (Level 1)** — SIEM, Log Analysis, Incident Response
 - 🛡️ **Blue Teamer** — Network Defense & Threat Monitoring
