@@ -80,8 +80,4 @@
 
 ---
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=UmairSohail-DevSec&color=00B4D8&style=flat-square)
-
-</div>
